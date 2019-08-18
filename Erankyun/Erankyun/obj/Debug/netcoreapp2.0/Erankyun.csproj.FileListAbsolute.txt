@@ -1,0 +1,11 @@
+/Users/ashotpetrosyan/Desktop/Erankyun/Erankyun/bin/Debug/netcoreapp2.0/Erankyun.deps.json
+/Users/ashotpetrosyan/Desktop/Erankyun/Erankyun/bin/Debug/netcoreapp2.0/Erankyun.runtimeconfig.json
+/Users/ashotpetrosyan/Desktop/Erankyun/Erankyun/bin/Debug/netcoreapp2.0/Erankyun.runtimeconfig.dev.json
+/Users/ashotpetrosyan/Desktop/Erankyun/Erankyun/bin/Debug/netcoreapp2.0/Erankyun.dll
+/Users/ashotpetrosyan/Desktop/Erankyun/Erankyun/bin/Debug/netcoreapp2.0/Erankyun.pdb
+/Users/ashotpetrosyan/Desktop/Erankyun/Erankyun/obj/Debug/netcoreapp2.0/Erankyun.csprojAssemblyReference.cache
+/Users/ashotpetrosyan/Desktop/Erankyun/Erankyun/obj/Debug/netcoreapp2.0/Erankyun.csproj.CoreCompileInputs.cache
+/Users/ashotpetrosyan/Desktop/Erankyun/Erankyun/obj/Debug/netcoreapp2.0/Erankyun.AssemblyInfoInputs.cache
+/Users/ashotpetrosyan/Desktop/Erankyun/Erankyun/obj/Debug/netcoreapp2.0/Erankyun.AssemblyInfo.cs
+/Users/ashotpetrosyan/Desktop/Erankyun/Erankyun/obj/Debug/netcoreapp2.0/Erankyun.dll
+/Users/ashotpetrosyan/Desktop/Erankyun/Erankyun/obj/Debug/netcoreapp2.0/Erankyun.pdb
